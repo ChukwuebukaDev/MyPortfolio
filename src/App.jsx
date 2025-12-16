@@ -3,7 +3,7 @@ import Hero from "../UI Components/Hero";
 import Footer from "../UI Components/Footer";
 function App() {
   return (
-    <div className="w-11/12 max-w-7xl m-auto">
+    <div className="">
       <Header />
       <Hero />
       <Footer />

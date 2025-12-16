@@ -10,8 +10,8 @@ export default function AboutMe() {
       <h1 className="text-5xl font-bold mb-6 text-center">About Me</h1>
       <p className="text-gray-400 text-lg mb-12 max-w-2xl text-center">
         I’m a passionate frontend developer who loves building clean,
-        interactive, and map-driven web apps. My focus is on crafting modern UIs
-        with React, Leaflet, and smart motion design.
+        interactive, and also map-driven web apps. My focus is on crafting
+        modern UIs with React, Leaflet, and smart motion design.
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl">

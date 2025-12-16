@@ -18,6 +18,7 @@ export default function Header() {
   };
 
   // Detect active section on scroll
+
   useEffect(() => {
     const handleScroll = () => {
       const scrollPos = window.scrollY + 100;
