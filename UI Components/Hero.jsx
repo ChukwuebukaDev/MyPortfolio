@@ -5,9 +5,10 @@ import Pricing from "./Hero-Components/Pricing";
 export default function Hero() {
   return (
     <main>
+      <AboutMe />
       <Projects />
       <Experience />
-      <AboutMe />
+
       <Pricing />
     </main>
   );
